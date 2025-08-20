@@ -14,9 +14,9 @@ This is my GitHub Pages site where I showcase my projects, share my journey as a
 
 ## Featured Projects
 
-- **[Crypto Market Dashboard](https://github.com/Tallerlei/crypto-app)** - Real-time cryptocurrency market data
-- **[Angular Photo Gallery](https://github.com/Tallerlei/angular-gallery)** - Showcase your adventures
-- **[SpaceTraders Game](https://github.com/Tallerlei/tallerlei-spacetraders)** - Space trading API integration
+- **[Currency Exchanger](https://github.com/Tallerlei/currency-exchanger)** - Multi-currency calculator with real-time exchange rates
+- **[COVID-19 Data Tracker](https://github.com/Tallerlei/covid-numbers)** - TypeScript application for COVID statistics
+- **[Angular Tour of Heroes](https://github.com/Tallerlei/angular2-tour-of-heroes)** - Classic Angular tutorial project
 - **[Angular Tic-Tac-Toe](https://github.com/Tallerlei/tic-tac-toe)** - Classic game, modern framework
 - **[Camping Checklist](https://github.com/Tallerlei/camping-checklist)** - Never forget your gear again!
 
